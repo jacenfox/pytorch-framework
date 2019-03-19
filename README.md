@@ -2,7 +2,7 @@
 Train/Test pytorch network.
 
 You may only need two scripts from this repo: **deepnet_training.py**, **deepnet_test.py**.
-The rest are used as an example and hope to make this repo reusable.
+The rest are used as an example and hope to make this repo reusable. No special dependencies are required.
 
 
 ## Usage
@@ -26,3 +26,6 @@ The rest are used as an example and hope to make this repo reusable.
 
 ## TODO
 Clean the dirty code.
+
+## Acknowledgment
+Thanks to MathGaron https://github.com/MathGaron/pytorch_toolbox
