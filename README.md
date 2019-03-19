@@ -1,6 +1,10 @@
 # pytorch-framework
 Train/Test pytorch network.
 
+You may only need two scripts from this repo: **deepnet_training.py**, **deepnet_test.py**.
+The rest are used as an example and hope to make this repo reusable.
+
+
 ## Usage
 - The train/test code are defined in *train.py* and *test.py*, they are project dependent. You would like to rewrite part of them to meet your requirements.
 
