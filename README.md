@@ -25,7 +25,8 @@ The rest are used as an example and hope to make this repo reusable. No special 
 - *deepnet_train/test.py* is used to make the training loops or test forwards happen. Most boring code in many pytorch projects, just copy/paste them to the new project. Tested in pytorch 0.4&1.0.
 
 ## TODO
-Clean the dirty code.
+Clean the dirty code. Update GradientHook
+Gradient Record won't work for pytroch>=1.0, please remove these parts. It's easy to be fixed, you can choose to use gradient_hooks.
 
 ## Acknowledgment
 Thanks to MathGaron https://github.com/MathGaron/pytorch_toolbox
